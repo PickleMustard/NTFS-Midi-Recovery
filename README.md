@@ -4,7 +4,7 @@ C program to take a deleted midi file with known inode and rewrite contents to n
 Written for a Linux system accessing a drive partitioned according to the NTFS standard.
 
 # Running Instructions
-Takes 3 arguments
+Takes 4 arguments
 1. Drive location
 : Do not specify partition
 2. Partition #
